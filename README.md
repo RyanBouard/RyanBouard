@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RyanBouard
-- 👀 I’m interested in coding AHHAHA
-- 🌱 I’m currently learning Java and Python
-- 📫 How to reach me 
+- Yo, my name is Ryan, im student in dev school in France 🥖
+- I am interested by programmation 🤖
+- I want to know more about Python🐍, Java🐕 and C++🦆
+
 
 <!---
 RyanBouard/RyanBouard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
