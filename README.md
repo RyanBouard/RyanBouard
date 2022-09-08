@@ -1,6 +1,6 @@
 - Yo, my name is Ryan, im student in dev school in France 🥖
 - I am interested by programmation 🤖
-- I want to know more about Python🐍, Java🐕 and JS
+- I want to know more about Python🐍, Java🐕 and JS🟨
 
 
 <!---
